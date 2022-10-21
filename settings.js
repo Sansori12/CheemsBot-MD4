@@ -61,16 +61,16 @@ global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.owner = ['201126554338']
+global.ownertag = '201126554338' //ur tag number
+global.botname = '𝑩𝑶𝑻 𝑺𝑨𝑵𝑺𝑶𝑹𝑰 ٫' //ur bot name
+global.linkz = "https://www.instagram.com/invites/contact/?i=9flr8m9oj749&utm_content=kxkumcz‎‏" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/invites/contact/?i=9flr8m9oj749&utm_content=kxkumcz‎‏" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/IznfG11vxP8DLovbQaE8lh' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "⍣ 𝑺 𝑨 𝑵 𝑺 𝑶 𝑹 𝑰  ⍣" //ur sticker watermark packname
+global.author = "⍣01126554338⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201098906252'] //ur premium numbers
+global.premium = ['201126554338'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
